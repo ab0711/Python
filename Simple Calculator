@@ -1,0 +1,15 @@
+print("Simple Calculator")
+x = 10
+y = 20
+
+sum = x + y
+subtraction = y - x
+product = x * y
+divide = x / y
+remainder = x % y
+
+print("The sum of x and y is", sum)
+print("The subtraction of y and x is", subtraction)
+print("The product of x and y is", product)
+print("The division of x and y is", divide)
+print("The remainder of x and y is", remainder)
